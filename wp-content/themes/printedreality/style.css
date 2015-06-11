@@ -1,0 +1,69 @@
+/*
+Theme Name: Printed Reality
+Author:Printed Reality
+Author URI: http://printedreality.com/
+Description: Printed Reality website designed in WordPress
+Version:1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: printed reality, 3d printing
+
+Printed Reality 2015
+*/
+
+
+.hr_spacer {
+    margin:20px 0px 25px 0px;
+}
+
+
+.slick-next:before, .slick-prev:before {
+    color:red;
+    
+}
+
+/*.slick-prev, .slick-next  {
+    width:47px;
+    height:47px;
+  }
+    .slick-prev {
+        left:-55px;
+    }
+    .slick-next  {
+        right:-55px;
+    }
+  .slick-next:before, .slick-prev:before{
+      font-size: 47px;
+  }*/
+
+
+.printegration-page .slick-next:before, .printegration-page .slick-prev:before{
+      font-size: 47px;
+  }
+  
+  .printegration-page .slick-prev {
+        left:0px;
+        width:47px;
+        height:47px;
+        margin-top: -30px;
+    }
+    
+      .printegration-page .slick-next {
+            right:0px;
+            width:47px;
+            height:47px;
+            margin-top: -30px;
+      }
+      
+      
+      .border-thin {
+          border: 1px solid grey;
+      }
+      
+      .light-grey {
+          background-color: #e7e7e7;
+      }
+      
+      .printegration-page-slider- div.slick-slide {
+          margin:0 3px 0 4px;
+      }
